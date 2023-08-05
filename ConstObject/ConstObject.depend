@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1691264877 source:c:\users\hp\desktop\cppcourse-an\constobject\main.cpp
+	"democlass.h"
+	<iostream>
+
+1691264806 c:\users\hp\desktop\cppcourse-an\constobject\democlass.h
+	"democlass.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691231357 source:c:\users\hp\desktop\cppcourse-an\firstproject\main.cpp
+	<iostream>
+	"firstclass.h"
+
+1691263587 c:\users\hp\desktop\cppcourse-an\firstproject\firstclass.h
+	"firstclass.h"
+
+1691263585 source:c:\users\hp\desktop\cppcourse-an\firstproject\firstclass.cpp
+	"firstclass.h"
+	<iostream>
+
